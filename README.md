@@ -24,5 +24,5 @@ This application is supposed to convert a png or tga image to the custom .PIC fo
 
  ** Output File Size: Seems correct
 
- ** Output File Data: Currently not quite working as intended
+ ** Output File Data: Corrupt. Tool is currently not quite working as intended
  
