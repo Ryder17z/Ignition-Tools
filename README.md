@@ -26,3 +26,4 @@ This application is supposed to convert a png or tga image to the custom .PIC fo
 
  ** Output File Data: Corrupt. Tool is currently not quite working as intended
  
+ See the PNG file in imageExportToPIC directory for details
